@@ -11,10 +11,7 @@ async function back(ctx) {
   {
     await ctx.render('login', {msgslogin: 'ok', msglogin: ctx.flash.login});
   }
-  else
-  {
     await ctx.render('login');
-  }
 }
 
 router.post('/', auth.loginuser);

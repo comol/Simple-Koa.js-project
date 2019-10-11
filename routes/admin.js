@@ -11,10 +11,6 @@ async function back(ctx) {
   {
     await ctx.render('admin', {msgsemail: 'ok', msgemail: ctx.flash.email});
   }
-  else
-  {
-    await ctx.render('admin');
-  }
   await ctx.render('admin');
 }
 router.post('/skills', skills.addslills);
