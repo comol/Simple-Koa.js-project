@@ -1,0 +1,152 @@
+{
+  "auth": [
+    {
+      "email": "comol@mail.ru",
+      "password": "adsfadf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasfd"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasdf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "sfdgsdfg"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasdf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfas"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "adsfadsf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfas"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasdf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "adsfa"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "754754"
+    },
+    {
+      "email": "12@mail.ru",
+      "password": "dadf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "757575"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasdf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "adsfadf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "adsfas"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "adsfasf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "sdfgsdfg"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfadsf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasdf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfasf"
+    },
+    {
+      "email": "comol@mail.ru",
+      "password": "asdfas"
+    }
+  ],
+  "posts": [
+    null,
+    null,
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "adsfasdf"
+    },
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "sdfgsdfg"
+    },
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "asdfadsf"
+    },
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "adsfasf"
+    },
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "54894685"
+    },
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "asdfasdfasdf"
+    },
+    {
+      "name": "Олег Александрович Филиппов",
+      "email": "comol@mail.ru",
+      "message": "sdfgsdg"
+    }
+  ],
+  "goods": [],
+  "skills": [
+    {
+      "age": "45",
+      "concerts": "45",
+      "cities": "45",
+      "years": "4"
+    }
+  ]
+}
