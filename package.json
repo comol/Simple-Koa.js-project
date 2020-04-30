@@ -42,7 +42,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "debug": "latest",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "koa": "^2.8.2",
     "koa-body": "^4.1.1",
     "koa-bodyparser": "^4.2.1",
